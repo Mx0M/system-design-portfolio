@@ -1,6 +1,6 @@
 ## Diagram
 
-[![View Diagram](/system-design-portfolio/case-studies/url-shortner/images/url-shortner-hld.png)]()
+[![View Diagram](./images/url-shortner-hld.png)]()
 
 ## Edit in Mermaid Live
 
